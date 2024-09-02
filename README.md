@@ -24,21 +24,21 @@ Esta es una **aplicación de lista de tareas** (Todo App) desarrollada con **Rea
 
 ### Instalación
 
-1. Clona el repositorio:
+- Clona el repositorio:
 
-2. Navega al directorio del proyecto:
+- Navega al directorio del proyecto:
 
   ```bash
   cd todo-app
   ```
 
-3. Instala las dependencias:
+- Instala las dependencias:
 
   ```bash
   npm install
   ```
 
-4. Ejecutar la app
+- Ejecutar la app
 
 ```bash
 npm run dev
