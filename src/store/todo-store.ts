@@ -4,9 +4,9 @@ import { TodoModel, TodoModelProps } from "../app/models/todo-model";
 
 const state = {
     todos: [
-        new TodoModel({ description: "Revisar y limpiar código" }),
-        new TodoModel({ description: "Actualizar dependencias" }),
-        new TodoModel({ description: "Resolver un bug" }),
+        new TodoModel({ description: "👀 Revisar y limpiar código" }),
+        new TodoModel({ description: "💥 Actualizar dependencias" }),
+        new TodoModel({ description: "🐛 Resolver bug" }),
     ],
     currentFilter: FiltersTypes.ALL
 }
