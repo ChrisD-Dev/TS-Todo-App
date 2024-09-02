@@ -5,6 +5,9 @@ Esta es una **aplicación de lista de tareas** (Todo App) desarrollada con **Rea
 > [!NOTE]  
 > La app hace uso de la plantilla <a href="https://todomvc.com/"> TodoMVC </a> para los estilos
 
+![Captura de pantalla 2024-09-02 a las 23 49 34](https://github.com/user-attachments/assets/e73f195e-fc2b-44cf-a25d-943d5c15eb21)
+<h3> <a href="https://ts-todo-app-ts.vercel.app/">Live Demo</h3>
+
 
 ## Características
 
@@ -26,17 +29,11 @@ Esta es una **aplicación de lista de tareas** (Todo App) desarrollada con **Rea
 
 - Clona el repositorio:
 
-- Navega al directorio del proyecto:
-
-  ```bash
-  cd todo-app
-  ```
-
 - Instala las dependencias:
 
-  ```bash
-  npm install
-  ```
+```bash
+npm install
+```
 
 - Ejecutar la app
 
