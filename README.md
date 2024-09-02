@@ -5,7 +5,8 @@ Esta es una **aplicación de lista de tareas** (Todo App) desarrollada con **Rea
 > [!NOTE]  
 > La app hace uso de la plantilla <a href="https://todomvc.com/"> TodoMVC </a> para los estilos
 
-![Captura de pantalla 2024-09-02 a las 23 49 34](https://github.com/user-attachments/assets/e73f195e-fc2b-44cf-a25d-943d5c15eb21)
+
+![Captura de pantalla 2024-09-03 a las 0 04 26](https://github.com/user-attachments/assets/c4472969-03cd-4d9b-9895-cb66a4fe6745)
 <h3> <a href="https://ts-todo-app-ts.vercel.app/">Live Demo</h3>
 
 
